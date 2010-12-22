@@ -1,0 +1,4 @@
+A Managed C++ implementation of the famous Conway's Game of Life.
+
+"GameOfLife.h" contains all the game logic.
+"MainWindow.h" contains the GUI of the program.
